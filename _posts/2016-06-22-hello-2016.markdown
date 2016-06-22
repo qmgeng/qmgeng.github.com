@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2016"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-06-22 11:53:00
+date:       2016-06-22
 author:     "qmgeng"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -21,7 +21,6 @@ My Text Blog
 
 copy by Hux
 
-<p id = "build"></p>
 ---
 
 ## 正文

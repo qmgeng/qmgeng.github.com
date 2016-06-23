@@ -15,9 +15,7 @@ tags:
 
 ## 前言
 
-My Text Blog
-
-[跳过废话，直接看技术实现 ](#build) 
+终于下定决心开始用MarkDown,申请了域名,作为blog的第一篇!
 
 copy by Hux
 
@@ -25,7 +23,7 @@ copy by Hux
 
 ## 正文
 
-其优点非常明显：
+[转]MarkDown其优点非常明显：
 
 * **Markdown** 带来的优雅写作体验
 * 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
@@ -42,13 +40,14 @@ copy by Hux
 
  `gem install jekyll`
 
-初次学习markdown
+
 
 
 ## 后记
 
-测试
+放图 HODOR
+![](https://cdn-images-1.medium.com/max/800/1*MRPl_SNuRGJchb6eOAnkSA.jpeg)
 
-—— qmgeng 2016.06
+—— Aspirin 2016.06
 
 
